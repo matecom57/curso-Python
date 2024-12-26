@@ -6,7 +6,8 @@ Welcome to Lumache's documentation!
 CMake 3.0.0 Release Notes
 *************************
 
-.. only:: html
+.. 
+  only:: html
 
   .. contents::
 
